@@ -1,5 +1,8 @@
 requirements
 
+# iOS
+.ds_store
+
 # Logs
 logs
 *.log
